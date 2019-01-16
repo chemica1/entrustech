@@ -1,0 +1,26 @@
+<style>
+    body{
+        margin: 0px;
+    }
+    #topview{
+        background-color: #20ACE4;
+        display: grid;
+    }
+    .logoimg{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+    
+    
+    
+    #middleview{
+        display:grid;
+        grid-template-columns: 150px 1fr;
+    }
+    #index{
+        border-right: 0.1px solid;
+        margin-right: 5px;
+    }
+</style>
